@@ -23,7 +23,7 @@
         "contexto":"Planejamento Alimentar",
         "ativo":true,
         "https":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent",
-        "token":"AIzaSyBu-iiNt4oFyjwHFnsTXMJatjn7m70gp6I",
+        "token":"AIzaSyAQgVCZTsdK41vGpqOLyFD7yGGRZ2EMbo4",
         "menu_resumo":true
     },
     "marcacao":{
