@@ -955,6 +955,7 @@ const responsivo = [
     
         }
 
+        
         #prancheta {
              width: 500px;
             height: 540px;
@@ -1056,6 +1057,10 @@ const responsivo = [
         font-size: 1.8rem !important;    
         }
 
+            p.text-mute {
+        font-size: 1rem;
+        }
+        
         #prancheta {
         width: 700px;
         height: 700px;
@@ -1088,10 +1093,6 @@ const responsivo = [
 
         pdestaque {
         font-size: 2.4rem !important;
-        }
-
-        .result-resumo-items p {
-        font-size: calc(var(--font-para-paragrafos) - -5px);
         }
 
         .socialContainer {
